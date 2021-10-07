@@ -7,6 +7,6 @@ Good night!
 
 New line!
 
-New line
+New lines.
 
-I just added this line.
+New line here.
