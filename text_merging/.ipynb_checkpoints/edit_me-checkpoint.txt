@@ -1,4 +1,5 @@
-Hello, world!
+merge
+hello, world!
 
 Guten morgen!
 
@@ -8,4 +9,7 @@ New line!
 
 New lines.
 
-blah blah blah
+New line here.
+Hello!
+New line added during rec!
+-Victoria
