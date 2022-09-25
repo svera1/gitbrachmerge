@@ -1,6 +1,6 @@
 merge
 hello, world!
-
+mergermerger
 Guten morgen!
 
 Good night!
@@ -11,7 +11,6 @@ Black cat in a dark room.
 
 New lines.
 
-<<<<<<< HEAD
 New line here.
 
 Hello!
@@ -21,5 +20,4 @@ Bbbbbbbbbb
 New line here. _
 Hello! _
 New line added during rec! _
--Victoria _
->>>>>>> 9b73c0a46bb8e4ab97a1cb9e432e81bee8b73be1
+-Victoria 
